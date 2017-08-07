@@ -7,3 +7,12 @@ c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\
 c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.exe
 c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.pdb
 C:\Users\viggy\Documents\Visual Studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.RectangleAreaCalc.resources
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\bin\Debug\VigneroRectangleExceptions.exe.config
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.exe
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.pdb
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\bin\Debug\VigneroRectangleExceptions.exe
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\bin\Debug\VigneroRectangleExceptions.pdb
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.csprojResolveAssemblyReference.cache
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.RectangleAreaCalc.resources
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.Properties.Resources.resources
+C:\Users\viggy\Documents\GitHub\Rectangles\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.csproj.GenerateResource.Cache
