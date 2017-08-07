@@ -1,0 +1,9 @@
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\bin\Debug\VigneroRectangleExceptions.exe.config
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\bin\Debug\VigneroRectangleExceptions.exe
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\bin\Debug\VigneroRectangleExceptions.pdb
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.csprojResolveAssemblyReference.cache
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.Properties.Resources.resources
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.csproj.GenerateResource.Cache
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.exe
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.pdb
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\VigneroRectangleExceptions\VigneroRectangleExceptions\obj\Debug\VigneroRectangleExceptions.RectangleAreaCalc.resources
